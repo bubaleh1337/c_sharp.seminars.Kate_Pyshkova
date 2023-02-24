@@ -1,0 +1,15 @@
+D:\Kate\EDU\GeekBrains\lessons\practice\c_sharp.seminar5.Kate_Pyshkova\task3\bin\Debug\net7.0\task3.exe
+D:\Kate\EDU\GeekBrains\lessons\practice\c_sharp.seminar5.Kate_Pyshkova\task3\bin\Debug\net7.0\task3.deps.json
+D:\Kate\EDU\GeekBrains\lessons\practice\c_sharp.seminar5.Kate_Pyshkova\task3\bin\Debug\net7.0\task3.runtimeconfig.json
+D:\Kate\EDU\GeekBrains\lessons\practice\c_sharp.seminar5.Kate_Pyshkova\task3\bin\Debug\net7.0\task3.dll
+D:\Kate\EDU\GeekBrains\lessons\practice\c_sharp.seminar5.Kate_Pyshkova\task3\bin\Debug\net7.0\task3.pdb
+D:\Kate\EDU\GeekBrains\lessons\practice\c_sharp.seminar5.Kate_Pyshkova\task3\obj\Debug\net7.0\task3.csproj.AssemblyReference.cache
+D:\Kate\EDU\GeekBrains\lessons\practice\c_sharp.seminar5.Kate_Pyshkova\task3\obj\Debug\net7.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kate\EDU\GeekBrains\lessons\practice\c_sharp.seminar5.Kate_Pyshkova\task3\obj\Debug\net7.0\task3.AssemblyInfoInputs.cache
+D:\Kate\EDU\GeekBrains\lessons\practice\c_sharp.seminar5.Kate_Pyshkova\task3\obj\Debug\net7.0\task3.AssemblyInfo.cs
+D:\Kate\EDU\GeekBrains\lessons\practice\c_sharp.seminar5.Kate_Pyshkova\task3\obj\Debug\net7.0\task3.csproj.CoreCompileInputs.cache
+D:\Kate\EDU\GeekBrains\lessons\practice\c_sharp.seminar5.Kate_Pyshkova\task3\obj\Debug\net7.0\task3.dll
+D:\Kate\EDU\GeekBrains\lessons\practice\c_sharp.seminar5.Kate_Pyshkova\task3\obj\Debug\net7.0\refint\task3.dll
+D:\Kate\EDU\GeekBrains\lessons\practice\c_sharp.seminar5.Kate_Pyshkova\task3\obj\Debug\net7.0\task3.pdb
+D:\Kate\EDU\GeekBrains\lessons\practice\c_sharp.seminar5.Kate_Pyshkova\task3\obj\Debug\net7.0\task3.genruntimeconfig.cache
+D:\Kate\EDU\GeekBrains\lessons\practice\c_sharp.seminar5.Kate_Pyshkova\task3\obj\Debug\net7.0\ref\task3.dll
